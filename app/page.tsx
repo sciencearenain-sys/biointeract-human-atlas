@@ -1,3 +1,4 @@
+import { BioInteractPanel } from "./BioInteractPanel";
 import {flushSync} from 'react-dom';
 import {registerAtlasTools} from './agent-tools';
 import {useEffect,useMemo,useRef,useState} from 'react';
